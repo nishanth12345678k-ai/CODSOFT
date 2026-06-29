@@ -1,0 +1,1 @@
+Open index.html in browser. Customize content/images as needed.

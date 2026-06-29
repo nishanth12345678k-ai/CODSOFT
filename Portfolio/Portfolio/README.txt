@@ -1,0 +1,1 @@
+Add your own profile.jpg inside images and resume.pdf in the folder.
